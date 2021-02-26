@@ -1,6 +1,6 @@
 # Analyzing Wine Quality Scores
 Final Project for Northwestern Data Analytics Bootcamp
-### By: Diane Witt, Jeni Lamoureux, and Allison Palka
+### By: Diane Witt, Jeni Lamoureux, Lenn Grayes and Allison Palka
 
 ![logo.jpg](attachment:logo.png)
 
